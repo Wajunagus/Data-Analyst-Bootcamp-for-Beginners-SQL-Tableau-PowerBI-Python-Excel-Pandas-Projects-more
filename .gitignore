@@ -1,0 +1,10 @@
+# Ignore Visual Studio / SQL Server local files
+.vs/
+*.vscode/
+*.vsidx
+*.wsuo
+*.sqlite
+*.json
+
+# But allow SQL scripts
+!*.sql
