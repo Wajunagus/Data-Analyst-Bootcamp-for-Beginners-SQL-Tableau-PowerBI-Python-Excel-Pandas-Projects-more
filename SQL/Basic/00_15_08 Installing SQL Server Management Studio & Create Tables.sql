@@ -31,9 +31,6 @@ Insert Into MuyaTheAnalyst..EmployeeDemographics Values
 (1007, 'Meredith', 'Palmer', 32, 'Female'),
 (1008, 'Stanley', 'Hudson', 38, 'Male'),
 (1009, 'Kevin', 'Malone', 31, 'Male')
-
-Select *
-From MuyaTheAnalyst..EmployeeDemographics
 */
 
 /*
@@ -54,7 +51,4 @@ Insert Into MuyaTheAnalyst..EmployeeSalary Values
 (1007, 'Supplier Relations', 41000),
 (1008, 'Salesman', 48000),
 (1009, 'Accountant', 42000)
-
-Select *
-From MuyaTheAnalyst..EmployeeSalary
 */
